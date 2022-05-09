@@ -1,0 +1,10 @@
+npx create-next-app
+npm install tailwindcss@latest
+npm i tailwind
+npm i font-awesome
+npm i redux react-redux
+npm i react-router-dom
+npm i react-loading-skeleton
+
+Video
+https://www.youtube.com/watch?v=SSXA2XluIBU&t=249s
